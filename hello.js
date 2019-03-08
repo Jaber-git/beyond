@@ -9,14 +9,14 @@
  // document.querySelector("h1").innerHTML="Welcome changed to hello";
 
 // }
- function hello (){
+ //function hello (){
     
             //get all the heading and it's an array and store array into headings
-            const headings =document.querySelectorAll("h1");
+   //         const headings =document.querySelectorAll("h1");
             // each one heading( 2 h1) loop through
-            for(const heading of headings){
-            heading.innerHTML="Hello";
+  //          for(const heading of headings){
+  //          heading.innerHTML="Hello";
 
-             }
-  
-   }
+  //           }
+  //
+ //  }
