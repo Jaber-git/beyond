@@ -1,17 +1,13 @@
-/***
- * demonstration 1
- * alert("Hello,world!");
- */
+    let total=0;
+    let el=[1,2,3,4,5,6,7,8,9,10];
 
-/***
- * demonstration 1
- * console.log("Hello ,world");
- */
+    el.forEach(function(e ,i){
+        console.log(i);
+        total+=e;
 
+    });
 
-function sum(x,y){
-    return x+y; 
-}
+    console.log(total);
+    //expected output 55
 
-
-console.log(sum(10,10));
+    //expected output 55

@@ -6,7 +6,7 @@
  //function hello (){
  // alert("hello");
   //manipulate tag
- // document.querySelector("h1").innerHTML="Welcome changed to hello";
+ // document.querySelector("h1").innerHTML="Welcome changed to hello"; //look through html and pick an out
 
 // }
  //function hello (){
